@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
+    "command-line-args": "^5.2.1",
     "node-emoji": "^1.11.0"
   },
   "devDependencies": {
